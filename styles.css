@@ -79,17 +79,6 @@ p ul{
 column{
     padding-left: 30px;
 }
-#brief{
-    padding: 5px;
-}
-section,aside,side{
-    float: left;
-    width: 30%;
-    padding: 0.2%;
-    margin: 1%;
-    background-color: #f2f2f2;
-    
- }
  #contacts{
     clear: both;
     margin: auto;
