@@ -77,12 +77,8 @@ p ul{
 #services{
     padding: 5px;
 }
-column{
-    padding-left: 30px;
-}
-#brief{
-    padding: 5px;
-}
+
+
 section,aside,side{
     float: left;
     width: 30%;
@@ -123,7 +119,7 @@ input[type=submit] {
 input[type=submit]:hover {
     background-color: teal;
 }
-.footer ul li{
+#footer{
     background: #343a40;
     color: #fffafa;
     height: 500px;
